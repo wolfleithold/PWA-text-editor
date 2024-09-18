@@ -5,24 +5,15 @@
 ## Table of Contents
 
 1. [Description](#description)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
-6. [Questions](#questions)
-7. [Screenshot](#Screenshot)
+2. [Usage](#usage)
+3. [Contributing](#contributing)
+4. [License](#license)
+5. [Questions](#questions)
+6. [Screenshot](#Screenshot)
 
 ## Description
 
 Just Another Text Editor (J.A.T.E) is a Progressive Web Application (PWA) that allows users to create and edit notes or code snippets with or without an internet connection. This app features offline functionality, data persistence with IndexedDB, and is built using modern web technologies such as Webpack, Babel, and Workbox. It can be installed on desktops and provides a seamless user experience for note-taking and code editing.
-
-## Installation
-
-- git clone https://github.com/your-username/your-repository.git
-  cd your-repository
-- npm i
-- create a .env file in the root directory and add the necessary environment variables. (PORT = 3001)
-- npm start
 
 ## Usage
 
