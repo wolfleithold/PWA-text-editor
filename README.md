@@ -17,7 +17,7 @@ Just Another Text Editor (J.A.T.E) is a Progressive Web Application (PWA) that a
 
 ## Usage
 
-Check it out [here](link)!
+Check it out [here](https://pwa-text-editor-a0rr.onrender.com)!
 
 ## Contributing
 
